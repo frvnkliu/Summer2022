@@ -1,4 +1,6 @@
-### Fermat Point Calcualtor
+# Fermat Point Calcualtor
+Google Colab Link:
+https://colab.research.google.com/drive/1zmg8qtC76fnoiE6RR_lGhJ3FnKxtvx_L?usp=sharing
 Given three points, this python script:
   1. Plots the triangle
   2. Calculates the Fermat Point
