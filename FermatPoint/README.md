@@ -1,4 +1,4 @@
-# Fermat Point Calcualtor
+# Fermat Point Calculator
 Google Colab Link:
 https://colab.research.google.com/drive/1zmg8qtC76fnoiE6RR_lGhJ3FnKxtvx_L?usp=sharing
 <br>Given three points, this python script:
